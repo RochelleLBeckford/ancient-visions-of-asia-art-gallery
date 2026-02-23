@@ -1,5 +1,5 @@
 <!-- & This creates a banner for the ReadMe -->
-<img src="img/d-readme/maiden wine viewing the cherry blossoms.png" alt="Pixel Geisha Under The Cherry Blossom Tree" width="95%" height="300">
+<img src="img/d-readme/maiden wine viewing the cherry blossoms.png" alt="Pixel Geisha Under The Cherry Blossom Tree" width="95%" height="400">
 
 # <p align="center">🌸 Art Gallery: Ancient Visions of Asia 🌸</p>
 
