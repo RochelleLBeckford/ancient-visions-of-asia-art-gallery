@@ -96,3 +96,7 @@
 -   [ ] CSS:
     -   [ ] Encompass the style of the app and give it some flair
 
+<hr>
+
+- [ ] Link to visit the webpage:
+  - [ ] <a href="" target="_blank">🌸 Art Gallery: Ancient Visions of Asia 🌸</a>
