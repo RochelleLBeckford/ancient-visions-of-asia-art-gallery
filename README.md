@@ -33,9 +33,9 @@
 <hr>
 
 -   [ ] The visual examples of the webpage:
-    -   [ ] <img src="img/d-readme/visual-header-about-section.png" alt="Visual Example of Header and About Section" width="400" height="400">
-    -   [ ] <img src="img/d-readme/visual-art-gallery-section.png" alt="Visual Example of Art Gallery Section" width="400" height="400">
-    -   [ ] <img src="img/d-readme/visual-contact-us-footer-section.png" alt="Visual Example of Contact Us and Footer Section" width="400" height="400">
+    -   [ ] <img src="img/d-readme/visual-header-about-section.png" alt="Visual Example of Header and About Section" width="450" height="400">
+    -   [ ] <img src="img/d-readme/visual-art-gallery-section.png" alt="Visual Example of Art Gallery Section" width="450" height="400">
+    -   [ ] <img src="img/d-readme/visual-contact-us-footer-section.png" alt="Visual Example of Contact Us and Footer Section" width="450" height="400">
 
 <hr>
 
