@@ -1,7 +1,6 @@
 /* & This will import the desired font for the webpage */
 @import url("https://fonts.googleapis.com/css2?family=Poiret+One&display=swap");
 
-/* & This will import the desired font */
 * {
     /* ~ This makes the "width" and "height" include padding and border instead of adding them on top */
     box-sizing: border-box;
