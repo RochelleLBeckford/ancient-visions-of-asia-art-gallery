@@ -1,5 +1,5 @@
 <!-- & This creates a banner for the ReadMe -->
-<img src="img/d-readme/maiden of the cherry blossoms.png" alt="" width="95%" height="400">
+<img src="img/d-readme/maiden of the cherry blossoms.png" alt="" width="100%" height="400">
 
 # <p align="center">🌸 Art Gallery: Ancient Visions of Asia 🌸</p>
 
